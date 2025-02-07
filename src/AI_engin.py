@@ -307,8 +307,8 @@ def uci_loop():
         try:
             line = input().strip()
             if line == "uci":
-                print("id name AIOneMoveEngine")
-                print("id author YourName")
+                print("id name AI-PyTorch")
+                print("id author BrokenCodeGenrator")
                 print("uciok", flush=True)
             elif line == "isready":
                 print("readyok", flush=True)
