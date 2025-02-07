@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#the comment above makes it posible to easily use whit a chess gui, for example cutechess
+#the comment above makes it posible to easily use whit a chess gui, for example cutechess as it tells the computer to execute it as python code
 import chess
 import sys
 import torch
