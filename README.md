@@ -18,9 +18,10 @@ If you have suggestions for improvements feel free to contribute or contact me!
   ✅ Standalone Execution – You can run AI_engine.py directly from the terminal:
 
     ./AI_engine.py
+    
+  This starts the AI with basic UCI controls. If this doesn't work, make sure you have installed both py-chess and PyTorch with their respective pip commands. Additionally, you will have to set permission to allow running the file as a program. You can do this by running the following command in the terminal:
 
-  This starts the AI with basic UCI controls. If this doesn't work, make sure you have installed both py-chess and PyTorch with their respective pip commands.
-
+chmod +x AI_engine.py
 
 ## To-Do List
 
