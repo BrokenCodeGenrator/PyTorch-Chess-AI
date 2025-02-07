@@ -19,7 +19,8 @@ If you have suggestions for improvements feel free to contribute or contact me!
 
     ./AI_engine.py
 
-  This starts the AI with basic UCI controls.
+  This starts the AI with basic UCI controls. If this doesn't work, make sure you have installed both py-chess and PyTorch with their respective pip commands.
+
 
 ## To-Do List
 
